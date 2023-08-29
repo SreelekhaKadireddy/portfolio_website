@@ -33,7 +33,7 @@
 }
 
 .info {
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-variant:small-caps;
     text-align: center;
     color: white;
@@ -43,4 +43,12 @@
   font-size: 40px;
   color:black;
   text-align: center;
+  justify-content: center;
+
+}
+.contact {
+  font-family: 'Courier New', Courier, monospace;
+  font-variant:small-caps;
+  text-align: center;
+  color: white;
 }
